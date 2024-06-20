@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class JavaVariables {
     public static void main(String[] args) {
         int num=10;
